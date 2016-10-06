@@ -1,3 +1,8 @@
 body {
-  background-image ("")
+  background-image: url("https://c1.staticflickr.com/9/8123/8622694081_4103059bff_o.png");
+  background-position: center;
+}
+img {
+  border-style: outset;
+  border-width: 5px;
 }
